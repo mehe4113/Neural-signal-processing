@@ -1,6 +1,6 @@
 clear all;
 
-basePath = "C:\Users\sajja\OneDrive - UCB-O365\Melanie project\";
+basePath = "C:\Users\";
 files = {'01VS.mat', '01S.mat', '01V.mat'};
 fsamp = 2000;  % Sampling frequency
 
