@@ -1,1 +1,5 @@
-This folder can extract the following variables:
+Codes contained in this folder can extract the following variables:
+- Motor unit discharge rate
+- Coefficient of variation for interspike intervals (CV for ISI)
+- Standard deviation for the cumulative spike train (SD for CST)
+- Motor unit coherence data
