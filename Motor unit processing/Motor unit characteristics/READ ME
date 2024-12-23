@@ -1,1 +1,2 @@
-
+This code calculates motor unit discharge rates, coefficient of variation for the interspike intervals, and the standard deviation for the cumulative spike train.
+The file named "main_script" will call the functions that are included in the folder.
